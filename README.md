@@ -1,6 +1,9 @@
 # musikal
 A Media/Music Display and Manager written in Python
 
+![image](https://github.com/verwirklicht/musikal/assets/141531740/2322e5cd-9d6a-41b6-bff7-bd03b6800a1a)
+
+
 ## Setup
 
 Install the dependencies by running `install.cmd` and do `python app.py` to run musikal.
