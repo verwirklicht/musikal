@@ -2,7 +2,7 @@
 A Media/Music Display and Manager written in Python
 
 
-<img src="https://github.com/verwirklicht/musikal/assets/141531740/2322e5cd-9d6a-41b6-bff7-bd03b6800a1a" alt="drawing" width="200"/>
+<img src="https://github.com/verwirklicht/musikal/assets/141531740/2322e5cd-9d6a-41b6-bff7-bd03b6800a1a" alt="drawing" width="300"/>
 
 
 ## Setup
